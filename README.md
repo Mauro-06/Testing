@@ -1,1 +1,5 @@
-# Testing
+Primero, descargué el proyecto y revisé las clases Producto e Inventario para entender cómo funcionaban y qué métodos estaban disponibles. Luego empece haciendo las pruebas unitarias. Utilicé JUnit para crear pruebas que verificaran el comportamiento de las clases. Por ejemplo, usé assertEquals para comprobar que los valores esperados coincidían con los resultados, assertNull para asegurarme de que se devolvía null cuando algo no existía, y assertNotNull para verificar que los objetos se creaban correctamente.
+
+Después, configuré un archivo .gitignore para que no se subieran archivos .md al repositorio. Con esto, inicialicé el repositorio local con Git, añadí los archivos, hice un commit y subí el proyecto a GitHub utilizando los comandos correspondientes.
+
+Por último, creé el archivo README.md explicando cómo realicé las pruebas y cómo subí el proyecto. Incluí también indicaciones para que cualquiera pudiera descargarlo y ejecutarlo. Una vez todo listo, empaqueté el proyecto en un archivo ZIP y preparé el enlace al repositorio en el README.md para la entrega.
